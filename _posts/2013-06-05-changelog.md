@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Changelog"
-category: gen
+category: general
 order: 1
 ---
 

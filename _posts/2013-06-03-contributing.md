@@ -2,7 +2,7 @@
 layout: page
 title:  Contributing
 date:   2013-06-03 21:12:57
-category: gen
+category: general
 order: 0
 ---
 

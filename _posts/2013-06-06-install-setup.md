@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Install & Setup"
-category: gen
+category: general
 date: 2013-06-06 11:01:37
 order: 0
 ---
