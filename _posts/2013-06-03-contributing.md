@@ -21,7 +21,7 @@ If you want to do more substantial development, clone the repo in your desktop, 
 #### Prerequisites
 
 **Mac**
-In order to run the local development server you need several things. If you are running this on a Mac or Linus (recommended) then make sure you have:
+In order to run the local development server you need several things. If you are running this on a Mac or Linux (recommended) then make sure you have:
 
 - [Ruby](http://ruby-lang.org/en/downloads) (including development headers, v1.9.3 or above for Jekyll 2 and v2 or above for Jekyll 3)
 - [RubyGems](http://rubygems.org/pages/download)
