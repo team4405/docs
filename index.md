@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Home"
 ---
 
-<p class=lead>Tired of long and unmanageable single-page READMEs deployed as your project's documentation? This minimal <a href=http://jekyllrb.com/>Jekyll</a> project template is specifically intended for simple static documentation sites deployable on GitHub Pages.</p>
+<p class=lead>Welcom to the Documentation site for <a href=http://team4405.com/>FRC Team 4405</a>. Here you will find detailed instructions on how to do almost anything related to the technical set up we have</p>
 
 The template follows a very simple convention of defining categories that correspond to sections in the navigation. Here are the default ones (they are listed in the `_config.yml`):
 
