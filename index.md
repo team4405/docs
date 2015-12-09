@@ -15,4 +15,4 @@ These Docs are organized into several categories which correspond to different a
 
 You can find out more by talking to someone on the team, or by emailing [software@team4405.com](mailto:software@team4405.com).
 
-Initial set up by [Gareth Matson](http://gareth.tk)
+Initial set up by [Gareth Matson](mailto:gmatson@live.com)
