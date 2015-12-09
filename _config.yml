@@ -31,7 +31,7 @@ sections: [
 baseurl: '/docs'
 
 # Dates are not included in permalinks
-permalink: /:category/:title/
+permalink: /:categories/:title/
 
 # Syntax highlighting
 highlighter: pygments
